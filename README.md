@@ -13,17 +13,16 @@ Este é um simples aplicativo de pintura criado usando Python e a biblioteca Tki
 ## Como usar
 
 1. Clone este repositório para o seu computador local.
-2. Navegue até o diretório onde o arquivo `paint.py` está localizado.
-3. Execute o arquivo `paint.py` usando Python 3.
+2. Navegue até o diretório onde o arquivo `main.py` está localizado.
+3. Execute o arquivo `main.py` usando Python 3.
 
 ## Dependências
 
-Este projeto depende das seguintes bibliotecas Python:
+Este projeto depende da seguinte biblioteca Python:
 
-- Tkinter
 - PIL (Pillow)
 
-Você pode instalar essas dependências usando pip:
+Você pode instalar essa dependência usando pip:
 
 ```bash
-pip install tkinter pillow
+pip install pillow
